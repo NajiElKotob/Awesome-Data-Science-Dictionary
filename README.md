@@ -1,2 +1,2 @@
-# Awesome-Data-Science-Dictionary
-Awesome Data Science Dictionary
+# Awesome Data Science Dictionary
+{Work in Process... Stay Tuned}
