@@ -69,7 +69,12 @@
 -----
 
 ## ML
-
+* Machine Learning
+  * Machine Learning algorithms aim to learn a target function (f) that describes the mapping between data input variables (X) and an output variable (Y) | Y=f(X)+e (Udacity)
+  * **Machine learning** is a data science technique used to extract patterns from data, allowing computers to identify related data, and forecast future outcomes, behaviors, and trends (Udacity)
+* [Pipelines](https://docs.microsoft.com/azure/machine-learning/concept-ml-pipelines#what-are-azure-ml-pipelines) An Azure ML pipeline performs a complete logical workflow with an ordered sequence of steps. Each step is a discrete processing action. (Microsoft Azure)
+* In the context of machine learning, [data drift](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-monitor-data-drift#what-is-data-drift)  is the change in model input data that leads to model performance degradation. It is one of the top reasons where model accuracy degrades over time, thus monitoring data drift helps detect model performance issues.
+* **Irreducible error** is the error that can’t be reduced by creating good models. It is a measure of the amount of noise in our data. Here it is important to understand that no matter how good we make our model, our data will have certain amount of noise or irreducible error that can not be removed. [Towards Data Science](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229). Irreducible Error comes from data collection.
 
 
 -----
