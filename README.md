@@ -79,5 +79,9 @@
 
 -----
 
+## Numbers
+* double-digit - a two-digit integer (of a number or variable) between 10 and 99
+
+----
 
 * [Shadow It](https://www.gartner.com/en/information-technology/glossary/shadow) refers to IT devices, software and services outside the ownership or control of IT organizations.
