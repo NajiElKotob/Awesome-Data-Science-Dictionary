@@ -41,7 +41,7 @@
 -----
 
 
-## Business Intelligence
+## Acronyms
 
 * ERD   - Entity Relationship Diagrams
 * ETL   - Extract, Transform and Load
@@ -50,12 +50,13 @@
 * LCDP  - A low-code development platform (LCDP) is software that provides an environment programmers use to create application software through graphical user interfaces and configuration instead of traditional computer programming
 * OLAP  - Online Analytical Processing
 * OLTP  - Online Transaction Processing
-* SaaS  - Software as a Service
-* PaaS  - Platform as a Service
-* IaaS  - Infrastructure as a Service
-  * [SaaS vs PaaS vs IaaS: What’s The Difference and How To Choose](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
-* DFaaS - Data Fabrics as a Service 
-  * [What Is a Data Fabric?](https://www.netapp.com/us/info/what-is-data-fabric.aspx)
+* *aaS
+  * SaaS  - Software as a Service
+  * PaaS  - Platform as a Service
+  * IaaS  - Infrastructure as a Service
+    * [SaaS vs PaaS vs IaaS: What’s The Difference and How To Choose](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
+  * DFaaS - Data Fabrics as a Service 
+    * [What Is a Data Fabric?](https://www.netapp.com/us/info/what-is-data-fabric.aspx)
 * DW    - Data Warehouse
 * DSS   - Decision Support System
 * EDW   - Enterprise Data Warehouse
