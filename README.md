@@ -36,10 +36,14 @@
 
 * [Raw Data](https://www.displayr.com/what-is-raw-data/) Raw data typically refers to tables of data where each row contains an observation and each column represents a variable that describes some property of each observation. Data in this format is sometimes referred to as tidy data, flat data, primary data, atomic data, and unit record data. Sometimes raw data refers to data that has not yet been processed.
 
+-----
+
+## Terms
+* [Shadow It](https://www.gartner.com/en/information-technology/glossary/shadow) refers to IT devices, software and services outside the ownership or control of IT organizations.
+
 * [Telemetry](https://stackify.com/telemetry-tutorial/) is the automatic recording and transmission of data from remote or inaccessible sources to an IT system in a different location for monitoring and analysis. Telemetry data may be relayed using radio, infrared, ultrasonic, GSM, satellite or cable, depending on the application (telemetry is not only used in software development, but also in meteorology, intelligence, medicine, and other fields).
 
 -----
-
 
 ## Acronyms
 
@@ -85,6 +89,5 @@
 ## Numbers
 * double-digit - a two-digit integer (of a number or variable) between 10 and 99
 
-----
 
-* [Shadow It](https://www.gartner.com/en/information-technology/glossary/shadow) refers to IT devices, software and services outside the ownership or control of IT organizations.
+
