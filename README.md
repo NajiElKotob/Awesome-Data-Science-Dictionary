@@ -6,6 +6,11 @@
 ## Data
 * [Data Architecture](https://www.techopedia.com/definition/6730/data-architecture) - Data architecture is a set of rules, policies, standards and models that govern and define the type of data collected and how it is used, stored, managed and integrated within an organization and its database systems. It provides a formal approach to creating and managing the flow of data and how it is processed across an organization’s IT systems and applications - techopedia
 
+* Data Decisions
+  * Data-Backed Decision Making
+  * Data-Informed Decision Making (DIDM)
+  * Data-Driven Decision Making (DDDM) 
+
 
 * [Data ethics](https://dataethics.eu/data-ethics-principles/) is about responsible and sustainable use of data. 
 
