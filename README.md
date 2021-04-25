@@ -11,6 +11,7 @@
   * Data-Informed Decision Making (DIDM)
   * Data-Driven Decision Making (DDDM) 
 
+* [Data Democratization](https://dataled.academy/data-democratization/) is the ongoing process of enabling everybody in an organization, irrespective of their technical know-how, to work with data comfortably, to feel confident talking about it, and as a result, make data-informed decisions and build customer experiences powered by data.
 
 * [Data ethics](https://dataethics.eu/data-ethics-principles/) is about responsible and sustainable use of data. 
 
