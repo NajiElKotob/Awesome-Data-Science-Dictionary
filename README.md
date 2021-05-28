@@ -52,6 +52,9 @@
 
 * [Telemetry](https://stackify.com/telemetry-tutorial/) is the automatic recording and transmission of data from remote or inaccessible sources to an IT system in a different location for monitoring and analysis. Telemetry data may be relayed using radio, infrared, ultrasonic, GSM, satellite or cable, depending on the application (telemetry is not only used in software development, but also in meteorology, intelligence, medicine, and other fields).
 
+* OSINT "Open Source INTelligence" “produced from publicly available information that is collected, exploited, and disseminated in a timely manner to an appropriate audience for the purpose of addressing a specific intelligence requirement” in [Sec. 931 of Public Law 109-164 “National Defense Authorization Act for
+Fiscal Year 2006”](https://circabc.europa.eu/sd/a/c7b916b3-79cd-41dc-bce0-d900425629c0/Network%20Analysis%20and%20Web%20Analytics%20final.pdf)
+
 -----
 
 ## Acronyms
