@@ -1,5 +1,5 @@
 # Awesome Data Science Dictionary
-{Work in Process... Stay Tuned}
+{Awesome Works in Progress}
 
 
 -----
