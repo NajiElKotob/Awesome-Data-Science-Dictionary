@@ -8,6 +8,7 @@
 * Dataism and Dataists [learn more | The Rise of Dataism: A Threat to Freedom or a Scientific Revolution?](https://singularityhub.com/2018/09/30/the-rise-of-dataism-a-threat-to-freedom-or-a-scientific-revolution/)
 * [Data Architecture](https://www.techopedia.com/definition/6730/data-architecture) - Data architecture is a set of rules, policies, standards and models that govern and define the type of data collected and how it is used, stored, managed and integrated within an organization and its database systems. It provides a formal approach to creating and managing the flow of data and how it is processed across an organization’s IT systems and applications - techopedia
 
+* [Data curation](https://searchbusinessanalytics.techtarget.com/definition/data-curation) is the process of creating, organizing and maintaining data sets so they can be accessed and used by people looking for information.
 * Data Decisions
   * Data-Backed Decision Making
   * Data-Informed Decision Making (DIDM)
