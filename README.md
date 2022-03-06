@@ -45,6 +45,7 @@
 
 * [Raw Data](https://www.displayr.com/what-is-raw-data/) Raw data typically refers to tables of data where each row contains an observation and each column represents a variable that describes some property of each observation. Data in this format is sometimes referred to as tidy data, flat data, primary data, atomic data, and unit record data. Sometimes raw data refers to data that has not yet been processed.
 
+* [Polyglot persistence](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview) is used to describe solutions that use a mix of data store technologies. 
 -----
 
 ## Terms
