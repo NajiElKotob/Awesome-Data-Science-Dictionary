@@ -53,7 +53,7 @@
 
 ## Terms
 * [Shadow It](https://www.gartner.com/en/information-technology/glossary/shadow) refers to IT devices, software and services outside the ownership or control of IT organizations.
-
+* [Self-service business intelligence (SSBI)](https://www.tableau.com/learn/articles/business-intelligence/self-service-bi) empowers teams such as product developers, sales, finance, marketing, operations, and more to answer data questions, with governance supported by IT and business intelligence (BI) analysts.
 * [Telemetry](https://stackify.com/telemetry-tutorial/) is the automatic recording and transmission of data from remote or inaccessible sources to an IT system in a different location for monitoring and analysis. Telemetry data may be relayed using radio, infrared, ultrasonic, GSM, satellite or cable, depending on the application (telemetry is not only used in software development, but also in meteorology, intelligence, medicine, and other fields).
 
 * OSINT "Open Source INTelligence" “produced from publicly available information that is collected, exploited, and disseminated in a timely manner to an appropriate audience for the purpose of addressing a specific intelligence requirement” in [Sec. 931 of Public Law 109-164 “National Defense Authorization Act for
