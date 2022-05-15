@@ -108,4 +108,7 @@ Fiscal Year 2006”](https://circabc.europa.eu/sd/a/c7b916b3-79cd-41dc-bce0-d900
 * [The Greek Alphabet](https://web.mit.edu/jmorzins/www/greek-alphabet.html) - mit.edu | α	alpha, β	beta, γ	gamma, δ	delta, η	êta, θ	thêta, λ	lambda, μ	mu, σ/ς
 sigma, ω	omega
 
+-----
 
+## Dictionaries
+* [Gartner Glossary "Data"](https://www.gartner.com/en/information-technology/glossary?glossarykeyword=data)
