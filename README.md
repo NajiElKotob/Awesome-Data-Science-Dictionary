@@ -5,7 +5,7 @@
 -----
 ## Data
 * Data is fact.
-   * [No Matter How You Say It, I’m Thankful for Data](https://businessoverbroadway.com/2015/11/25/no-matter-how-you-say-it-im-thankful-for-data/)
+  * [No Matter How You Say It, I’m Thankful for Data](https://businessoverbroadway.com/2015/11/25/no-matter-how-you-say-it-im-thankful-for-data/)
 * [Data analytics](https://www.investopedia.com/terms/d/data-analytics.asp) is the science of analyzing raw data to make conclusions about that information. The techniques and processes of data analytics have been automated into mechanical processes and algorithms that work over raw data for human consumption. Data analytics help a business optimize its performance [...] A company can also use data analytics to make better business decisions.
 * Dataism and Dataists [learn more | The Rise of Dataism: A Threat to Freedom or a Scientific Revolution?](https://singularityhub.com/2018/09/30/the-rise-of-dataism-a-threat-to-freedom-or-a-scientific-revolution/)
 * [Data Architecture](https://www.techopedia.com/definition/6730/data-architecture) - Data architecture is a set of rules, policies, standards and models that govern and define the type of data collected and how it is used, stored, managed and integrated within an organization and its database systems. It provides a formal approach to creating and managing the flow of data and how it is processed across an organization’s IT systems and applications - techopedia
