@@ -18,6 +18,8 @@
 
 * [Data Democratization](https://dataled.academy/data-democratization/) is the ongoing process of enabling everybody in an organization, irrespective of their technical know-how, to work with data comfortably, to feel confident talking about it, and as a result, make data-informed decisions and build customer experiences powered by data.
 
+* [Data element](https://csrc.nist.gov/glossary/term/data_element) is a basic unit of information that has a unique meaning and subcategories (data items) of distinct value. Examples of data elements include gender, race, and geographic location.
+
 * [Data ethics](https://dataethics.eu/data-ethics-principles/) is about responsible and sustainable use of data. 
 
 * [Data Exhaust](https://whatis.techtarget.com/definition/data-exhaust) - Data exhaust is the data generated as a byproduct of people’s online actions and choices - techtarget
