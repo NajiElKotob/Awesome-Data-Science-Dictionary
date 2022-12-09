@@ -92,7 +92,7 @@ Fiscal Year 2006”](https://circabc.europa.eu/sd/a/c7b916b3-79cd-41dc-bce0-d900
 * RDBMS - Relational Database Management System
 * PSA   - Persistent Staging Area 
   * [Using a Persistent Staging Area: What, Why, And How](https://www.hansmichiels.com/2017/02/18/using-a-persistent-staging-area-what-why-and-how/)
-  
+* SSOT - Single Source of Truth (SSOT)  
   
 -----
 
