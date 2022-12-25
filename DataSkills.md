@@ -2,3 +2,4 @@
 * Data Storytelling
 * Data Management
 * Data Modeling
+* Data Literacy
