@@ -3,3 +3,4 @@
 * Data Management
 * Data Modeling
 * Data Literacy
+* Data Ethics
