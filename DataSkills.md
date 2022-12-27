@@ -5,3 +5,4 @@
 * Data Modeling
 * Data Literacy
 * Data Ethics
+* Data Quality
