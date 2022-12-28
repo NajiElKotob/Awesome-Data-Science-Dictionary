@@ -6,3 +6,4 @@
 * Data Literacy
 * Data Ethics
 * Data Quality
+* Data Strategy
