@@ -7,3 +7,4 @@
 * Data Ethics
 * Data Quality
 * Data Strategy
+* Data Protection Strategy
