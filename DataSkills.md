@@ -8,3 +8,4 @@
 * Data Quality
 * Data Strategy
 * Data Protection Strategy
+* Data Classification
