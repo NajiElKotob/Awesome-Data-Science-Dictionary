@@ -9,3 +9,4 @@
 * Data Strategy
 * Data Protection Strategy
 * Data Classification
+* Database Security
