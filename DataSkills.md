@@ -10,3 +10,4 @@
 * Data Protection Strategy
 * Data Classification
 * Database Security
+* Data Journalism
