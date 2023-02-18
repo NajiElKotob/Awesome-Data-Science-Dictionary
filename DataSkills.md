@@ -12,4 +12,5 @@
 * Database Security
 * Data Journalism
 * Data Transformation
+* Data Steward
 
