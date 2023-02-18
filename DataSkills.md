@@ -1,13 +1,15 @@
 # Data Skills
+* Data Classification
+* Data Engineering
+* Data Ethics
 * Data Storytelling
-* Data Transformation
 * Data Management
 * Data Modeling
 * Data Literacy
-* Data Ethics
 * Data Quality
 * Data Strategy
 * Data Protection Strategy
-* Data Classification
 * Database Security
 * Data Journalism
+* Data Transformation
+
