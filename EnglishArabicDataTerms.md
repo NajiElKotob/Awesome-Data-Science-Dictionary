@@ -2,4 +2,5 @@
 
 1. Power BI - باور بي آي
 1. Data Analysis Expression (DAX) - تعبيرات تحليل البيانات
+1. Formulas - صيغ
 1. Drill-down - التنقل التفصيلي
