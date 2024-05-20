@@ -4,3 +4,4 @@
 1. Data Analysis Expression (DAX) - تعبيرات تحليل البيانات
 1. Formulas - صيغ
 1. Drill-down - التنقل التفصيلي
+1. Key Performance Indicator - مؤشر الأداء الرئيسي
