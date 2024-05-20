@@ -7,3 +7,4 @@
 1. Key Performance Indicator - مؤشر الأداء الرئيسي
 1. Report - تقرير
 1. Dashboard - لوحة معلومات
+1. Large language models (LLMs) - النماذج اللغوية الكبيرة
