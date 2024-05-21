@@ -9,4 +9,4 @@
 1. Dashboard - لوحة معلومات
 1. Large language models (LLMs) - النماذج اللغوية الكبيرة
 1. PivotTables - الجداول المحورية
-   
+1. PivotCharts - المخططات المحورية
