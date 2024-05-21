@@ -8,3 +8,5 @@
 1. Report - تقرير
 1. Dashboard - لوحة معلومات
 1. Large language models (LLMs) - النماذج اللغوية الكبيرة
+1. PivotTables - الجداول المحورية
+   
