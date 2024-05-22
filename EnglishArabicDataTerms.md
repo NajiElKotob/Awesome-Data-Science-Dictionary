@@ -12,3 +12,4 @@
 1. PivotCharts - المخططات المحورية
 1. Pie Chart - مخطط دائري
 1. Column chart - مخطط عمودي
+1. Line chart - المخطط الخطي
