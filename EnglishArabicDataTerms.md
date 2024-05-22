@@ -16,3 +16,4 @@
 1. Pie chars - المخططات الدائرية
 1. Doughnut charts - المخططات الدائرية المجوفة
 1. Bar chart - المخطط الشريطي
+1. Area chart - مخطط مساحي
