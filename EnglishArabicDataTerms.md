@@ -13,3 +13,4 @@
 1. Pie Chart - مخطط دائري
 1. Column chart - مخطط عمودي
 1. Line chart - المخطط الخطي
+1. Pie chars - المخططات الدائرية
