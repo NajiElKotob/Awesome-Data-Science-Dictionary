@@ -14,3 +14,4 @@
 1. Column chart - مخطط عمودي
 1. Line chart - المخطط الخطي
 1. Pie chars - المخططات الدائرية
+1. Doughnut charts - المخططات الدائرية المجوفة
