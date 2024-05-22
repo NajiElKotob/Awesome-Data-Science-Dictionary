@@ -18,3 +18,4 @@
 1. Bar chart - المخطط الشريطي
 1. Area chart - مخطط مساحي
 1. XY (scatter) - مخططات س وص (المبعثرة) 
+1. Bubble chart - مخطط فقاعي
