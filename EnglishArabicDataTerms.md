@@ -30,3 +30,4 @@
 1. XY (scatter) - مخططات س وص (المبعثرة) 
 1. Bubble chart - مخطط فقاعي
 1. Stock chart - مخطط أسهم
+1. Surface chart - مخطط سطحي
