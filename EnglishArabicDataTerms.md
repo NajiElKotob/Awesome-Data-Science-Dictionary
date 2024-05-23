@@ -1,13 +1,23 @@
 # English-Arabic Data Terms
 
+## Power BI - باور بي آي
 1. Power BI - باور بي آي
 1. Data Analysis Expression (DAX) - تعبيرات تحليل البيانات
-1. Formulas - صيغ
 1. Drill-down - التنقل التفصيلي
-1. Key Performance Indicator - مؤشر الأداء الرئيسي
 1. Report - تقرير
 1. Dashboard - لوحة معلومات
+
+## Excel - إكسل
+1. Formulas - صيغ
+
+## Business and Finance - الأعمال التجارية والمالية 
+1. Key Performance Indicator - مؤشر الأداء الرئيسي
+
+
+## Artificial Intelligence (AI) - الذكاء الاصطناعي
 1. Large language models (LLMs) - النماذج اللغوية الكبيرة
+
+## Charts - الرسوم البيانية
 1. PivotTables - الجداول المحورية
 1. PivotCharts - المخططات المحورية
 1. Pie Chart - مخطط دائري
