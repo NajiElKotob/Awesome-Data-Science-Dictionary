@@ -32,3 +32,4 @@
 1. Stock chart - مخطط أسهم
 1. Surface chart - مخطط سطحي
 1. Radar charts - المخططات النسيجية
+1. Treemap chart - مخطط هيكلي
