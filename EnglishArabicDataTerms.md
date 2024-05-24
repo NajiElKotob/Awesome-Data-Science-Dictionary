@@ -33,3 +33,4 @@
 1. Surface chart - مخطط سطحي
 1. Radar charts - المخططات النسيجية
 1. Treemap chart - مخطط هيكلي
+1. Sunburst chart - مخطط حلقي
