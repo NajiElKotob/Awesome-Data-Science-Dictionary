@@ -34,3 +34,4 @@
 1. Radar charts - المخططات النسيجية
 1. Treemap chart - مخطط هيكلي
 1. Sunburst chart - مخطط حلقي
+1. Histogram charts - مخططات مدرج تكراري
