@@ -36,3 +36,4 @@
 1. Sunburst chart - مخطط حلقي
 1. Histogram charts - مخططات مدرج تكراري
 1. Combo charts - مخططات التحرير والسرد
+1. Box and Whisker charts - مخططات الصندوق وطرفيه
