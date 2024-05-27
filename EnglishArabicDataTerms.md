@@ -38,3 +38,4 @@
 1. Combo charts - مخططات التحرير والسرد
 1. Box and Whisker charts - مخططات الصندوق وطرفيه
 1. Waterfall charts - المخططات الانحدارية
+1. Funnel charts - مخططات قُمعية
