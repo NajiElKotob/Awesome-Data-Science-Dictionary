@@ -39,3 +39,4 @@
 1. Box and Whisker charts - مخططات الصندوق وطرفيه
 1. Waterfall charts - المخططات الانحدارية
 1. Funnel charts - مخططات قُمعية
+1. Map chart - مخطط الخريطة
