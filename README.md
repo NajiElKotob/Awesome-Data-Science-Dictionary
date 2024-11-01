@@ -15,7 +15,7 @@
   * Data-Backed Decision Making
   * Data-Informed Decision Making (DIDM)
   * Data-Driven Decision Making (DDDM) 
-
+* [Data crunching](https://www.netsuite.com/portal/resource/articles/erp/data-crunching.shtml) refers to key initial steps required to prepare large volumes of raw data for analysis. It includes stripping out unwanted information and formatting, translating data into the required format and structuring it for analysis or processing by other applications. Once these steps are completed, companies can apply analysis tools to the data to glean business insights.
 * [Data Democratization](https://dataled.academy/data-democratization/) is the ongoing process of enabling everybody in an organization, irrespective of their technical know-how, to work with data comfortably, to feel confident talking about it, and as a result, make data-informed decisions and build customer experiences powered by data.
 
 * [Data element](https://csrc.nist.gov/glossary/term/data_element) is a basic unit of information that has a unique meaning and subcategories (data items) of distinct value. Examples of data elements include gender, race, and geographic location.
