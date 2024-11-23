@@ -1,4 +1,4 @@
-# Awesome Data Science Dictionary
+# Awesome Data Dictionary
 {Awesome Works in Progress}
 
 
