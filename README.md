@@ -1,6 +1,10 @@
 # Awesome Data Dictionary
 {Awesome Works in Progress}
 
+`
+"The numbers have no way of speaking for themselves. We speak for them. We imbue them with meaning." — Statistician Nate Silver in the book The Signal and the Noise
+`
+
 
 -----
 ## Data
