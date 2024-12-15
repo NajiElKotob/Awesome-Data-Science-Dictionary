@@ -26,6 +26,7 @@
 1. Pie chars - المخططات الدائرية
 1. Doughnut charts - المخططات الدائرية المجوفة
 1. Bar chart - المخطط الشريطي
+1. Clustered Bar chart - شريطي متفاوت المسافات
 1. Area chart - مخطط مساحي
 1. XY (scatter) - مخططات س وص (المبعثرة) 
 1. Bubble chart - مخطط فقاعي
