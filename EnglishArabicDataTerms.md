@@ -43,3 +43,4 @@
 1. Funnel charts - مخططات قُمعية
 1. Map chart - مخطط الخريطة
 1. Card - بطاقة
+1. Slicer - مقسم 
