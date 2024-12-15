@@ -42,3 +42,4 @@
 1. Waterfall charts - المخططات الانحدارية
 1. Funnel charts - مخططات قُمعية
 1. Map chart - مخطط الخريطة
+1. Card - بطاقة
